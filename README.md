@@ -1,0 +1,3 @@
+# Project Overview
+
+For this project, we assess the effects on model performance under different domains, as shown in Task2.ipynb. Using PyTorch, we built a custom classification model from scratch that integrates CORAL to perform domain adaptation, enabling us to align feature distributions between the source and target datasets. This approach allowed us to evaluate how well the model generalises when trained on real images and tested on sketch images. A complete report of the methodology, experiments, and results can be found in Report.pdf, which details the impact of domain adaptation techniques across real and sketch domain images.
